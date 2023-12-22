@@ -1,2 +1,3 @@
 # bdsmsutra.github.io
-BDSM Sutra
+
+[BDSM Sutra](https://bdsmsutra.github.io)
